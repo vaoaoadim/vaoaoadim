@@ -68,12 +68,6 @@
 
 </details>
 
-## 03 / Работа над проектами
-
-<a href="https://github.com/vaoaoadim?tab=overview"><img src="https://raw.githubusercontent.com/vaoaoadim/vaoaoadim/activity/activity-ru.svg" alt="Публичный календарь активности GitHub за год с ежедневным обновлением. Движущиеся скобки выделяют временную шкалу; уровни активности в ячейках не меняются." width="100%"></a>
-
-<sub>Только публичная активность GitHub. Обновляется ежедневно; при reduced motion анимация отключена. Это отдельная визуализация, а не замена штатного календаря GitHub.</sub>
-
 ---
 
 **Из идеи — в работающий продукт.** [Обсудить проект ↗](https://t.me/vaoaoadim)

@@ -68,12 +68,6 @@ Send me a short description of who the product is for, what it should help them 
 
 </details>
 
-## 03 / Building, one contribution at a time
-
-<a href="https://github.com/vaoaoadim?tab=overview"><img src="https://raw.githubusercontent.com/vaoaoadim/vaoaoadim/activity/activity.svg" alt="Public GitHub contribution calendar for the last year, refreshed daily. Moving brackets highlight the timeline; the cells retain their real activity levels." width="100%"></a>
-
-<sub>Public GitHub activity only. Refreshed daily; animation stops with reduced motion. This is a separate visualization, not a replacement for GitHub's native calendar.</sub>
-
 ---
 
 **Let's turn your idea into a working product.** [Start a conversation ↗](https://t.me/vaoaoadim)

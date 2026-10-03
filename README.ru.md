@@ -34,6 +34,14 @@
 
 [Открыть в Telegram](https://t.me/hochesa_bot)
 
+### [REC ↗](https://chromewebstore.google.com/detail/gffocdahpnfhpnmgmjhbflpeebhogjil?utm_source=item-share-cb)
+
+**Расширение для Chrome · Запись экрана**
+
+Запись экрана, камеры, голоса и звука вкладки со встроенным редактором и локальным хранением файлов. Создано на React, TypeScript, WXT и Mediabunny.
+
+[Установить REC из Chrome Web Store](https://chromewebstore.google.com/detail/gffocdahpnfhpnmgmjhbflpeebhogjil?utm_source=item-share-cb)
+
 ### [BeautyBomb Delivery ↗](https://beautybomb-delivery.vercel.app)
 
 **Браузерная игра · Phaser 3.90**
@@ -52,12 +60,13 @@
 
 ## 02 / Стек под задачу
 
-**Frontend** — React · TypeScript · JavaScript · Vite · HTML/CSS · GSAP  
-**Backend и данные** — Node.js · REST APIs · Webhooks · PostgreSQL · Supabase · Firebase  
-**Интеграции** — Telegram Bot API · Платёжные и почтовые сценарии · OpenAI API · RAG  
-**Публикация** — Git · GitHub · CI/CD · Vercel · Cloudflare
+**Frontend** — React · TypeScript · JavaScript · Vite · HTML · CSS · Адаптивная вёрстка  
+**Backend и данные** — Node.js · Python · REST API · Вебхуки · PostgreSQL · Supabase · Firebase · Авторизация · Серверная логика · Базы данных  
+**Интеграции** — Telegram Bot API · Внешние API · Платёжные API · Email-автоматизация · Уведомления · Аналитика · Внутренние сервисы  
+**Инфраструктура** — Git · GitHub · CI/CD · Deployment · Домены · Hosting · Cloudflare/Vercel · Настройка production-среды  
+**AI** — OpenAI API · Anthropic API · Gemini API · LangChain · LangGraph · LlamaIndex · Hugging Face · Vercel AI SDK · pgvector · MCP
 
-Стек подбирается под конкретную задачу индивидуально и не ограничивается вышеперечисленным.
+Рабочий стек подбирается под задачу, масштаб и срок проекта. Ниже — наиболее частые технологии и направления, которые использую или подключаю.
 
 <details>
 <summary><b>Есть идея, но пока нет технического задания?</b></summary>

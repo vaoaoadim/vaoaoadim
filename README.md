@@ -34,6 +34,14 @@ Wishlists for you and your loved ones. A place to collect gift ideas and make ch
 
 [Open in Telegram](https://t.me/hochesa_bot)
 
+### [REC ↗](https://chromewebstore.google.com/detail/gffocdahpnfhpnmgmjhbflpeebhogjil?utm_source=item-share-cb)
+
+**Chrome extension · Screen recording**
+
+Record your screen, webcam, voice and tab audio, then edit the recording with the built-in editor. Files are stored locally. Built with React, TypeScript, WXT and Mediabunny.
+
+[Get REC on Chrome Web Store](https://chromewebstore.google.com/detail/gffocdahpnfhpnmgmjhbflpeebhogjil?utm_source=item-share-cb)
+
 ### [BeautyBomb Delivery ↗](https://beautybomb-delivery.vercel.app)
 
 **Browser game · Phaser 3.90**
@@ -52,12 +60,13 @@ A cozy weekly planner for tasks, sleep, mood, energy, habits, a calendar and per
 
 ## 02 / Tools, chosen for the task
 
-**Frontend** — React · TypeScript · JavaScript · Vite · HTML/CSS · GSAP  
-**Backend & data** — Node.js · REST APIs · Webhooks · PostgreSQL · Supabase · Firebase  
-**Integrations** — Telegram Bot API · Payment & email workflows · OpenAI API · RAG  
-**Delivery** — Git · GitHub · CI/CD · Vercel · Cloudflare
+**Frontend** — React · TypeScript · JavaScript · Vite · HTML · CSS · Responsive layout  
+**Backend & data** — Node.js · Python · REST APIs · Webhooks · PostgreSQL · Supabase · Firebase · Authentication · Server-side logic · Databases  
+**Integrations** — Telegram Bot API · External APIs · Payment APIs · Email automation · Notifications · Analytics · Internal services  
+**Infrastructure** — Git · GitHub · CI/CD · Deployment · Domains · Hosting · Cloudflare/Vercel · Production environment setup  
+**AI** — OpenAI API · Anthropic API · Gemini API · LangChain · LangGraph · LlamaIndex · Hugging Face · Vercel AI SDK · pgvector · MCP
 
-The stack is not limited to the above, but is selected individually for each task.
+The working stack is selected for the task, scale and timeline. These are the technologies and disciplines I use most often or bring in when needed.
 
 <details>
 <summary><b>Have an idea, but no technical brief yet?</b></summary>

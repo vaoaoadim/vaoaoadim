@@ -2,7 +2,7 @@
 
 ![v.build — Vadim Bednov. From idea to a working product.](assets/banner-v1.png)
 
-# Interfaces with character. Products that work.
+# Digital products. AI automation
 
 I'm **Vadim Bednov**, an independent developer behind **v.build**. I build websites, web apps, Telegram mini apps, bots, extensions and automations — from the interface to the backend, database and integrations.
 
